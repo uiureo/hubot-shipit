@@ -31,6 +31,20 @@ squirrels = [
   "http://1.bp.blogspot.com/_v0neUj-VDa4/TFBEbqFQcII/AAAAAAAAFBU/E8kPNmF1h1E/s640/squirrelbacca-thumb.jpg",
   "https://dl.dropboxusercontent.com/u/602885/github/soldier-squirrel.jpg",
   "https://dl.dropboxusercontent.com/u/602885/github/squirrelmobster.jpeg",
+  "http://media.giphy.com/media/WI57pvaEd9YHu/giphy.gif",
+  "http://media.giphy.com/media/SlEXm15CKaZuU/giphy.gif",
+  "http://media.giphy.com/media/tDafHUBVrRKtq/giphy.gif",
+  "http://media.giphy.com/media/lUDQ6pW8cJuxO/giphy.gif",
+  "http://media.giphy.com/media/MHBxC3uR71Yyc/giphy.gif",
+  "http://media.giphy.com/media/HkA9xsCxJCRWw/giphy.gif",
+  "http://media.giphy.com/media/79qf1N4RJtc8o/giphy.gif",
+  "http://media.giphy.com/media/nv99yd56AMNDa/giphy.gif",
+  "http://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif",
+  "http://media.giphy.com/media/12OuYZhq4nnWAE/giphy.gif",
+  "http://media.giphy.com/media/k0CJuMw9h7m3S/giphy.gif",
+  "http://media.giphy.com/media/8E1uPDT9gfhJK/giphy.gif",
+  "http://media.giphy.com/media/iJc8fraqaofWo/giphy.gif",
+  "http://media.giphy.com/media/11OpSu3gDJM784/giphy.gif",
 ]
 
 module.exports = (robot) ->
